@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "27795501542",
+    "firebase_url": "https://lokr-dcc4b.firebaseio.com",
+    "project_id": "lokr-dcc4b",
+    "storage_bucket": "lokr-dcc4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27795501542:android:fb2345a725c264c3",
+        "android_client_info": {
+          "package_name": "com.osan.lokr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27795501542-mt1m9v20a19fckqrv1j89cm8uphed1mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.osan.lokr",
+            "certificate_hash": "7cd68de5d090f9155ba9d234f230283289847b1b"
+          }
+        },
+        {
+          "client_id": "27795501542-u9bu7f6l1ga6buh2u8kekf8mjmnaoec2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx0hH-Kp2maEzjeWhkgwNfkTGnp2-4MeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27795501542-u9bu7f6l1ga6buh2u8kekf8mjmnaoec2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

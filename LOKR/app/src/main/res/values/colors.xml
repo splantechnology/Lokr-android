@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#898989</color>
+    <color name="colorAccent">#2699FB</color>
+    <color name="blueDark">#234793</color>
+    <color name="blueLight">#A3B6E0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bgNavProfile">#bce0fd</color>
+    <color name="colorDim">#b6ddfd</color>
+    <color name="colorTransparent">#63000000</color>
+    <color name="colorTransWhite">#ceffffff</color>
+    <color name="whiteTransparent">#e9eaeaea</color>
+    <color name="dark">#8b8ba1</color>
+    <color name="facebook">#36609f</color>
+    <color name="google">#d9372b</color>
+</resources>
